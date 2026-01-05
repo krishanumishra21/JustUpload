@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Uploaded sites (runtime data)
+backend/sites/*
+
+# OS / Editor
+.DS_Store
+.vscode/
