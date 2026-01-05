@@ -26,14 +26,18 @@ JustUpload allows developers to deploy HTML, CSS, and JavaScript websites instan
 
 ---
 
-## 📂 Project Structure
+## 📁 Project Structure
+
+```text
 JustUpload/
 ├── backend/
-│ ├── main.py
-│ ├── sites/ # Hosted websites (runtime)
-│ └── frontend/
-│ └── index.html
+│   ├── main.py
+│   ├── requirements.txt
+│   └── sites/            # Hosted websites (runtime)
+├── frontend/
+│   └── index.html
 ├── .gitignore
 └── README.md
+
 
 
